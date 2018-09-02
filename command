@@ -17,3 +17,4 @@ git push origin <branch name>
 
 # added by Test branch 
 git merge master # update branch file from master
+git push origin <branch name>
