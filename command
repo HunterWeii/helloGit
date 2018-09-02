@@ -18,3 +18,7 @@ git push origin <branch name>
 # added by Test branch 
 git merge master # update branch file from master
 git push origin <branch name>
+
+# do a pull requst to merge branches to master
+# back to master branch
+git pull -r # updated info from branches 
