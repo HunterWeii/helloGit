@@ -22,4 +22,5 @@ git push origin <branch name>
 # do a pull requst to merge branches to master
 # back to master branch
 git pull -r # updated info from branches 
-git branch Test -D # delete branches after merge into master
+git branch Test -D # delete branches locally after merge into master
+git push origin --delete <branch name> # delete branches remotely 
