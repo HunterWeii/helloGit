@@ -32,3 +32,6 @@ git push origin --delete <branch name> # delete branches remotely
 msg: how are you today
 git push origin wei # push updated msg to origin wei-branch
 note: checkout to master branch to see the different =D
+
+# At wei - branch
+msg: come on just let it gooo
