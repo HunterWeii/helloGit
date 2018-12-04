@@ -31,3 +31,5 @@ git push origin --delete <branch name> # delete branches remotely
 # 07-09-2018
 git checkout -b <branchname>
 git push origin <branchname>
+
+lalal
