@@ -52,3 +52,8 @@ to force it update local file to remote file
 
 # at wei branch 
 msg: dont get so tired
+
+you can run
+  git merge --abort 
+
+to revert the merging
