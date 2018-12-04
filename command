@@ -35,3 +35,4 @@ note: checkout to master branch to see the different =D
 
 # At wei - branch
 msg: come on just let it gooo
+  # switch to master branch and push msg which is modified at wei-branch
