@@ -49,3 +49,6 @@ you can do
   git push -f origin wei
    
 to force it update local file to remote file
+
+# at wei branch 
+msg: dont get so tired
