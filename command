@@ -32,9 +32,6 @@ git push origin --delete <branch name> # delete branches remotely
 git checkout -b <branchname>
 git push origin <branchname>
 
-<<<<<<< HEAD
-lalal
-=======
 # At wei - branch
 msg: come on just let it gooo
   # switch to master branch and push msg which is modified at wei-branch
@@ -54,4 +51,3 @@ to force it update local file to remote file
 
 # at wei branch 
 msg: dont get so tired
->>>>>>> wei
