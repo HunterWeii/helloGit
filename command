@@ -27,3 +27,6 @@ git push origin --delete <branch name> # delete branches remotely
 
 # Master
 # new command from Master
+
+# At wei - branch 
+msg: how are you today
